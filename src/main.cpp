@@ -20,7 +20,7 @@ int main() {
 	}
 	else
 	{
-		std::cout << "Successfully created Vulkan instance!" << std::endl;
+		std::cout << "Successfully created Vulkan instance! :]" << std::endl;
 	}
 
 
